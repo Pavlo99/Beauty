@@ -1,0 +1,52 @@
+{
+  "goods": [
+    {
+      "nameOfGood": "Гір",
+      "typeOfGood": "Алюміній",
+      "wheels": "26",
+      "price": "3500"
+    },
+    {
+      "nameOfGood": "Дамський",
+      "typeOfGood": "Залізо",
+      "wheels": "24",
+      "price": "2800"
+    },
+    {
+      "nameOfGood": "Шосейний",
+      "typeOfGood": "Хром",
+      "wheels": "28",
+      "price": "4300"
+    },
+    {
+      "nameOfGood": "Дитячий",
+      "typeOfGood": "Алюміній",
+      "wheels": "20",
+      "price": "2000"
+    },
+    {
+      "nameOfGood": "Шосейний",
+      "typeOfGood": "Алюміній",
+      "wheels": "28",
+      "price": "3100"
+    },
+    {
+      "nameOfGood": "Дамський",
+      "typeOfGood": "Хром",
+      "wheels": "26",
+      "price": "5400"
+    },
+    {
+      "nameOfGood": "Гірський",
+      "typeOfGood": "Алюміній",
+      "wheels": "26",
+      "price": "2700"
+    },
+    {
+      "nameOfGood": "Дамський",
+      "typeOfGood": "Залізо",
+      "wheels": "28",
+      "price": "2560"
+    }
+  ]
+}

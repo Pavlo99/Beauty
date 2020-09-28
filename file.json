@@ -1,0 +1,39 @@
+{
+  "goods": [
+    {
+      "nameOfGood": "Тонер",
+      "price": "150",
+      "weight": "250"
+    },
+    {
+      "nameOfGood": "Пудра",
+      "price": "200",
+      "weight": "50"
+    },
+    {
+      "nameOfGood": "Хайлайтер",
+      "price": "100",
+      "weight": "120"
+    },
+    {
+      "nameOfGood": "Туш",
+      "price": "330",
+      "weight": "200"
+    },
+    {
+      "nameOfGood": "Гель",
+      "price": "150",
+      "weight": "250"
+    },
+    {
+      "nameOfGood": "Крем",
+      "price": "350",
+      "weight": "300"
+    },
+    {
+      "nameOfGood": "Скраб",
+      "price": "410",
+      "weight": "450"
+    }
+  ]
+}
